@@ -1,1 +1,8 @@
 @import "~bootstrap/dist/css/bootstrap.min.css";
+
+#excuse {
+  height: 100px;
+  width: 700px;
+  margin: 0 auto;
+  margin-top: 150px;
+}
